@@ -19,4 +19,21 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="parameter.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="test_label.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="test_set.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="training_label.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="training_set.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
